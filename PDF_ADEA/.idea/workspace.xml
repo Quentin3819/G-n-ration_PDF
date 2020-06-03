@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0e184e9-40df-4611-9ebe-cb154f6d7bd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1aZLxfGTrHReiYXWZncI5zgmmzy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\quent\OneDrive\Bureau\vm\data\testePdf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quent\OneDrive\Bureau\testePdf" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e184e9-40df-4611-9ebe-cb154f6d7bd6" name="Default Changelist" comment="" />
+      <created>1586938416969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586938416969</updated>
+      <workItem from="1586938418142" duration="1914000" />
+      <workItem from="1586940486612" duration="1797000" />
+      <workItem from="1586942626024" duration="7737000" />
+      <workItem from="1586967950037" duration="2869000" />
+      <workItem from="1587020698807" duration="24339000" />
+      <workItem from="1587106648872" duration="1935000" />
+      <workItem from="1587109908573" duration="10558000" />
+      <workItem from="1587134804594" duration="1020000" />
+      <workItem from="1587452918920" duration="14905000" />
+      <workItem from="1587539556922" duration="7130000" />
+      <workItem from="1587711417460" duration="1918000" />
+      <workItem from="1587974971779" duration="287000" />
+      <workItem from="1589804562404" duration="27000" />
+      <workItem from="1589804722689" duration="36000" />
+      <workItem from="1589871876427" duration="6000" />
+      <workItem from="1589871890800" duration="9000" />
+      <workItem from="1589882275479" duration="623000" />
+      <workItem from="1590403552175" duration="1160000" />
+      <workItem from="1590409466462" duration="13000" />
+      <workItem from="1590409543215" duration="2145000" />
+      <workItem from="1590411732481" duration="3033000" />
+      <workItem from="1590477116009" duration="7083000" />
+      <workItem from="1590484943773" duration="10310000" />
+      <workItem from="1590564229883" duration="2989000" />
+      <workItem from="1590578857475" duration="6137000" />
+      <workItem from="1590665571091" duration="14903000" />
+      <workItem from="1590736138230" duration="5850000" />
+      <workItem from="1590760132009" duration="2113000" />
+      <workItem from="1591084615696" duration="121000" />
+      <workItem from="1591085092884" duration="4270000" />
+      <workItem from="1591097550446" duration="1198000" />
+      <workItem from="1591168992365" duration="2669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2570" y="308" key="#PHP" timestamp="1586942714756">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2570" y="308" key="#PHP/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1586942714756" />
+    <state x="2654" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587116207381">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2654" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587116207381" />
+    <state x="2954" y="503" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587554003145">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2954" y="503" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587554003145" />
+    <state x="330" y="278" key="FileChooserDialogImpl" timestamp="1591084733144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="278" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589871897356" />
+    <state x="330" y="278" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1591084733144" />
+    <state x="2470" y="472" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587975256874" />
+    <state x="330" y="278" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590411730073" />
+    <state x="668" y="367" key="NewPhpFileDialog" timestamp="1590414229199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="367" key="NewPhpFileDialog/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1587390378348" />
+    <state x="3034" y="623" key="NewPhpFileDialog/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587554675639" />
+    <state x="668" y="367" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1590414229199" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587475262888">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587475262888" />
+    <state x="14" y="152" width="1358" height="810" key="dock-window-1" timestamp="1590668993301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="14" y="152" width="1358" height="810" key="dock-window-1/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1590668993301" />
+    <state x="562" y="194" width="672" height="677" key="run.anything.popup" timestamp="1590739977590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="194" width="672" height="677" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1590739977590" />
+    <state x="562" y="194" key="run.anything.popup/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1590583957914" />
+    <state x="2856" y="330" key="run.anything.popup/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587116196119" />
+    <state x="2863" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1587559806306">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2863" y="315" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587559806306" />
+  </component>
+</project>
